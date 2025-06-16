@@ -1,7 +1,9 @@
+#CODIGO PARA MENÚ DE OPCIONES A CALCULAR:
+
 import os
 
 while True:
-    print("\n¿Qué desea calcular?")
+    print("\n¿Qué se desea calcular?")
     print("1 - IMC")
     print("2 - Porcentaje de grasa corporal")
     print("3 - Calorías en reposo")
